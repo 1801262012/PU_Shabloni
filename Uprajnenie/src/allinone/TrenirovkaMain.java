@@ -42,5 +42,6 @@ public class TrenirovkaMain {
 		remoteController.poluchavaneNaKomanda();		
 
 		uprajnenie.napraviUprajnenieIme("'legni'");
+		//
 	}
 }
